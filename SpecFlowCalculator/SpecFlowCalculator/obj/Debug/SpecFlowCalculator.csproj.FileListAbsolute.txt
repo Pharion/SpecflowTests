@@ -1,0 +1,6 @@
+D:\Git\SpecflowTests\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\SpecFlowCalculator.dll
+D:\Git\SpecflowTests\SpecFlowCalculator\SpecFlowCalculator\bin\Debug\SpecFlowCalculator.pdb
+D:\Git\SpecflowTests\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\SpecFlowCalculator.csproj.AssemblyReference.cache
+D:\Git\SpecflowTests\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\SpecFlowCalculator.csproj.CoreCompileInputs.cache
+D:\Git\SpecflowTests\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\SpecFlowCalculator.dll
+D:\Git\SpecflowTests\SpecFlowCalculator\SpecFlowCalculator\obj\Debug\SpecFlowCalculator.pdb
